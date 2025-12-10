@@ -1,3 +1,2 @@
-# Required libs
 opencv-python
 numpy
