@@ -7,6 +7,7 @@ This project converts normal images into cartoon-style images using OpenCV image
 
 ## Project Structure
 
+```
 opencv_buildclub/
 ├── assets/              # Input images
 │   ├── sample.png
