@@ -83,11 +83,9 @@ After running:
 
 ## Screenshots
 
-```
 | Original | Cartoon |
 |---------|---------|
 | <img src="screenshots/original.png" width="300"> | <img src="screenshots/cartoon.png" width="300"> |
-```
 
 
 ---
