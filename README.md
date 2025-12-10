@@ -21,6 +21,7 @@ opencv_buildclub/
 │   ├── utils.py         # Cartoon filter function
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
@@ -60,6 +61,7 @@ Install dependencies:
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 
 ---
@@ -68,6 +70,7 @@ Install dependencies:
 
    ```bash
    python src/main.py
+   ```
 
 
 After running:
@@ -80,9 +83,11 @@ After running:
 
 ## Screenshots
 
+```
 | Original | Cartoon |
 |---------|---------|
 | <img src="screenshots/original.png" width="300"> | <img src="screenshots/cartoon.png" width="300"> |
+```
 
 
 ---
